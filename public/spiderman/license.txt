@@ -1,0 +1,11 @@
+Model Information:
+* title:	Miguel O'Hara Fortnite Model (Anatomy Fix, v1.2)
+* source:	https://sketchfab.com/3d-models/miguel-ohara-fortnite-model-anatomy-fix-v12-824b1ac747ea4f2883366f6a41b15b6b
+* author:	kibby.jpg (https://sketchfab.com/kibbyjpg)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Miguel O'Hara Fortnite Model (Anatomy Fix, v1.2)" (https://sketchfab.com/3d-models/miguel-ohara-fortnite-model-anatomy-fix-v12-824b1ac747ea4f2883366f6a41b15b6b) by kibby.jpg (https://sketchfab.com/kibbyjpg) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
